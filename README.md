@@ -7,6 +7,6 @@ S tandard
 R evision
 E dition
 
-this project provide ultra beutiful shader for mid-end phones
+this project aim to provide ultra beutiful shader for mid-end phones
 
 (Exynos 7884 or snapdragon 450 up)
